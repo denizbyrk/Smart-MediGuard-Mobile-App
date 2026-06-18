@@ -1,0 +1,6 @@
+@SmartMediGuard.API_HostAddress = http://localhost:5199
+
+GET {{SmartMediGuard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
